@@ -1,0 +1,26 @@
+h1{
+    background-color: aqua;
+    text-align: center;
+    display: inline;
+
+}
+
+ul li a {
+    text-decoration: none;
+    
+}
+nav ul li {
+
+    display: inline;
+    text-align: justify;
+}
+img{
+ width: 50%;
+ height: 50%;
+}
+footer{
+    text-align: center;
+}
+.e{
+    background-color: cadetblue;
+}
