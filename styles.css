@@ -20,7 +20,8 @@ img{
 }
 footer{
     text-align: center;
+    background-color: hsla(50%, 20%, 200, 0.15);
 }
 .e{
-    background-color: cadetblue;
+    background-color: rgb(30,50%,80%);
 }
