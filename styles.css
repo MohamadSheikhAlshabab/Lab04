@@ -1,19 +1,26 @@
 h1{
-    background-color: aqua;
-    text-align: center;
+    background-color:seagreen;
     display: inline;
 
+}
+center{
+    background-color: yellow;
 }
 
 ul li a {
     text-decoration: none;
+    background-color: crimson;
     
 }
 nav ul li {
 
     display: inline;
     text-align: justify;
+    background-color: coral;
 }
+body {
+    background-color: lightblue;
+  }
 img{
  width: 50%;
  height: 50%;
@@ -21,7 +28,14 @@ img{
 footer{
     text-align: center;
     background-color: hsla(50%, 20%, 200, 0.15);
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: large;
 }
 .e{
     background-color: rgb(30,50%,80%);
+}
+p{
+    font-family: "Times New Roman", Times, serif;
+    font-size: 15px;
+    background-color: violet;
 }
