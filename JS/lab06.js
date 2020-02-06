@@ -7,7 +7,9 @@ your_name = prompt ("what is your name ? ");
 p1 =prompt("Input first Number");
 
 p2 =prompt("Input second Number");
-var p3 =prompt("Input any character to type it ten time");
+var p3 =prompt("Input  character 1 to type it ten time");
+var p4 =prompt("Input  character 2 to type it ten time");
+var p5 =prompt("Input  character 3  to type it ten time");
 //  if (   your_name == "mohamad" ){
     
 confirm("HELLO "+ "," +your_name );
@@ -20,6 +22,10 @@ while( p1 == 1 &&  p2 == 1){
 
 for (var i=0;i<=10;i++){
     document.write(p3);
+    document.write("  ");
+    document.write(p4);
+    document.write("  ");
+    document.write(p5);
     document.write("  ");
 }
 
