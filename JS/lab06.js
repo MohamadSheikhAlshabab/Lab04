@@ -21,10 +21,13 @@ while( p1 == 1 &&  p2 == 1){
 }
 
 for (var i=0;i<=10;i++){
+    document.write(i);
     document.write(p3);
     document.write("  ");
+    document.write(i);
     document.write(p4);
     document.write("  ");
+    document.write(i);
     document.write(p5);
     document.write("  ");
 }
